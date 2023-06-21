@@ -1,0 +1,167 @@
+.wc-website-container {
+  max-width: 1140px;
+}
+
+.navbar-wrapper {
+  background-color: #292d33;
+  min-height: 80px;
+}
+.navbar-wrapper .nav-container {
+  max-width: 1140px;
+}
+.navbar-wrapper .nav-container .logo-wrap {
+  display: flex;
+  align-items: center;
+  height: 100px;
+}
+
+.we-cr-website-section {
+  background-color: #DCCEBB;
+}
+.we-cr-website-section img {
+  max-width: 100%;
+}
+.we-cr-website-section .ws-right-wrap .content-wrap {
+  max-width: 440px;
+  padding-left: 120px;
+}
+.we-cr-website-section .ws-right-wrap .content-wrap h3 {
+  font-size: 60px;
+  font-weight: 700;
+  margin: 100px 0 0 0;
+}
+.we-cr-website-section .ws-right-wrap .content-wrap p {
+  font-style: italic;
+  font-size: 20px;
+  line-height: 40px;
+  margin: 12px 0 0 0;
+}
+
+.btn-primary {
+  padding: 13px 78px 15px;
+  background-color: #000000;
+  color: #fff;
+  font-size: 23px;
+  border-radius: 15px;
+}
+
+.capabilities-section {
+  background-color: #DCCEBB;
+}
+.capabilities-section h2 {
+  font-size: 60px;
+  text-align: center;
+  padding-top: 30px;
+}
+.capabilities-section p {
+  text-align: center;
+  font-size: 18px;
+  max-width: 674px;
+  margin: 20px auto 0;
+  line-height: 35px;
+  font-style: italic;
+}
+.capabilities-section .brand-strategy-wrap {
+  margin-top: 30px;
+}
+.capabilities-section .brand-strategy-wrap .brand-strategy-box {
+  background-color: #fff;
+  max-width: 390px;
+  width: 100%;
+  margin-left: 30px;
+  border-top: 10px solid #F68817;
+}
+.capabilities-section .brand-strategy-wrap .brand-strategy-box h4 {
+  padding: 18px 0 15px 15px;
+  font-size: 32px;
+  font-weight: 700;
+}
+.capabilities-section .brand-strategy-wrap .brand-strategy-box ul {
+  list-style: none;
+}
+.capabilities-section .brand-strategy-wrap .brand-strategy-box ul li {
+  padding-bottom: 10px;
+  font-size: 21px;
+}
+
+.wc-website-third-section {
+  background-color: #DCCEBB;
+  padding-top: 65px;
+}
+.wc-website-third-section .wc-website-left-wrap {
+  max-width: 770px;
+  background-color: #fff;
+}
+.wc-website-third-section .wc-website-left-wrap h3 {
+  font-size: 60px;
+  font-weight: 800;
+  padding: 52px 0 40px 40px;
+}
+.wc-website-third-section .wc-website-left-wrap h3, .wc-website-third-section .wc-website-left-wrap p {
+  max-width: 420px;
+}
+.wc-website-third-section .wc-website-left-wrap p {
+  font-size: 23px;
+  line-height: 40px;
+  margin-left: 32px;
+}
+.wc-website-third-section .wc-website-left-wrap .btn-primary {
+  margin: 16px 0 50px 23px;
+}
+
+.contact-us-section {
+  background-color: #DCCEBB;
+}
+.contact-us-section .contact-form {
+  padding-top: 80px;
+}
+.contact-us-section .contact-form .contact-form-left {
+  width: 60%;
+  background-color: #fff;
+}
+.contact-us-section .contact-form .contact-form-left h3 {
+  color: #F68817;
+  text-align: center;
+  padding-top: 45px;
+  font-size: 36px;
+  font-weight: 900;
+}
+.contact-us-section .contact-form .contact-form-left input {
+  display: block;
+  border: 0;
+  border-bottom: 2px solid #808080;
+  width: 92%;
+  font-size: 22px;
+  padding-left: 42px;
+  padding-bottom: 13px;
+}
+.contact-us-section .contact-form .contact-form-left label {
+  font-size: 22px;
+  padding: 15px 0 10px 33px;
+}
+.contact-us-section .contact-form .contact-form-left textarea {
+  display: block;
+  border: 0;
+  width: 100%;
+}
+.contact-us-section .contact-form .contact-form-left .checkbox {
+  width: 100%;
+}
+.contact-us-section .contact-form-right {
+  width: 40%;
+  background-color: #F68817;
+}
+.contact-us-section .contact-form-right .call-us-wrap h2, .contact-us-section .contact-form-right .location-wrap h2, .contact-us-section .contact-form-right .top-services-wrap h2 {
+  text-align: center;
+  padding: 60px 0 12px 0;
+  color: #fff;
+}
+.contact-us-section .contact-form-right .call-us-wrap p, .contact-us-section .contact-form-right .location-wrap p, .contact-us-section .contact-form-right .top-services-wrap p {
+  text-align: center;
+  color: #fff;
+}
+.contact-us-section .contact-form-right .top-services-wrap ul {
+  list-style: none;
+  text-align: center;
+  color: #fff;
+}/*# sourceMappingURL=style.css.map */

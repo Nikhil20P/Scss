@@ -1,0 +1,204 @@
+@import '_variable';
+
+// common css
+.wc-website-container{
+    max-width: 1140px;
+}
+.navbar-wrapper {
+    background-color: $black-color;
+    min-height: 80px;
+
+    .nav-container {
+        max-width: 1140px;
+
+        .logo-wrap {
+            display: flex;
+            align-items: center;
+            height: 100px;
+        }
+    }
+}
+
+.we-cr-website-section {
+    background-color: $we-create-section-color;
+
+    img {
+        max-width: 100%;
+    }
+
+    .ws-right-wrap   {
+        .content-wrap {
+            max-width: 440px;
+            padding-left: 120px;
+
+            h3 {
+                font-size: 60px;
+                font-weight:700;
+                margin: 100px 0 0 0;
+
+            }
+
+            p {
+                font-style: $italic-font-style;
+                font-size: 20px;
+                line-height: 40px;
+                margin: 12px 0 0 0;
+            }
+
+        }
+
+      
+
+    }
+}
+    .btn-primary {
+        padding: 13px 78px 15px;
+        background-color: #000000;
+        color: #fff;
+        font-size: 23px;
+        border-radius: 15px;
+        
+    }
+
+
+.capabilities-section {
+    background-color: $we-create-section-color;
+
+    h2 {
+        font-size: 60px;
+        text-align: center;
+        padding-top: 30px;
+
+    }
+
+    p {
+        text-align: center;
+        font-size: 18px;
+        max-width: 674px;
+        margin: 20px auto 0;
+        line-height: 35px;
+        font-style: $italic-font-style;
+    }
+
+    .brand-strategy-wrap {
+        margin-top: 30px;
+
+        .brand-strategy-box {
+            background-color: #fff;
+            max-width: 390px;
+            width: 100%;
+            margin-left: 30px;
+            border-top: 10px solid #F68817;
+
+            h4 {
+                padding: 18px 0 15px 15px;
+                font-size: 32px;
+                font-weight: 700;
+
+            }
+
+            ul {
+                list-style: none;
+
+                li {
+                    padding-bottom: 10px;
+                    font-size: 21px;
+                }
+            }
+        }
+
+
+    }
+}
+.wc-website-third-section{
+    background-color: $we-create-section-color;
+    padding-top: 65px;
+    .wc-website-left-wrap{
+        max-width: 770px;
+        background-color: #fff;
+        h3{  
+            font-size: 60px;
+            font-weight: 800;
+            padding: 52px 0 40px 40px;
+
+        }
+        h3,p{
+            max-width: 420px;
+        }
+        p{
+            font-size: 23px;
+            line-height: 40px;
+            margin-left: 32px;
+        }
+        .btn-primary{
+            margin: 16px 0 50px 23px;
+        }
+    }
+}
+
+.contact-us-section{
+    background-color: $we-create-section-color;
+        .contact-form{
+            padding-top: 80px;
+        .contact-form-left{
+            width: 60%;
+            background-color:#fff;
+            h3{
+                color: #F68817;
+    text-align: center;
+    padding-top: 45px;
+    font-size: 36px;
+    font-weight: 900;
+            }
+            input{
+                display: block;
+                border: 0;
+                border-bottom: 2px solid #808080;
+                width: 92%;
+                font-size: 22px;
+                padding-left: 42px;
+                padding-bottom: 13px;
+            }
+            label{
+                font-size: 22px;
+    padding: 15px 0 10px 33px;
+            }
+            textarea{
+                display: block;
+                border: 0;
+                width: 100%;
+            }
+         .checkbox{
+            width: 100%;
+         }
+            
+            }
+        }
+        .contact-form-right{
+           width: 40%;
+           background-color: #F68817;
+           .call-us-wrap,.location-wrap,.top-services-wrap{
+            h2{
+                text-align: center;
+                padding: 60px 0 12px 0;
+                color: #fff;
+            }
+            p{
+                text-align: center;
+                color: #fff;
+            }
+           }
+           .top-services-wrap{
+            ul{
+                list-style: none;
+                text-align: center;
+                color: #fff;
+            }
+           }
+
+        }
+    }
+
+
+
+    
